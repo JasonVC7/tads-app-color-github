@@ -2,6 +2,6 @@
 
 ## Ingenieria en Tecnologias de Informacion y Comunicaciones
 ### Taller Avanzado de Software
-Practica: **Clase 8 - Práctica Censo (Modelo completo)**
+Practica: **Clase 4 - Publicación colaborativa de código fuente (parte 2)**
 Autor: **Jason Cortes**
-Fecha: **18 de Febrero de 2026**
+Fecha: **9 de Febrero de 2026**
